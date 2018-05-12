@@ -1,0 +1,40 @@
+_repo: The-Debtor--A-Novel_17793
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stevens, William Dodge
+    alias: Stevens, W. D. (William Dodge)
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '6720'
+    url: http://www.gutenberg.org/2009/agents/6720
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freeman, Mary Eleanor Wilkins
+    aliases:
+    - Wilkins, Mary Eleanor
+    - Wilkins, Mary Ella
+    - Wilkins, Mary E. (Mary Eleanor)
+    - Freeman, Mary E. Wilkins (Mary Eleanor Wilkins)
+    birthdate: 1852
+    deathdate: 1930
+    gutenberg_agent_id: '495'
+    url: http://www.gutenberg.org/2009/agents/495
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Eleanor_Wilkins_Freeman
+description: ''
+gutenberg_issued: '2006-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17793'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'New Jersey -- Social life and customs -- Fiction'
+title: 'The Debtor: A Novel'
+url: http://www.gutenberg.org/ebooks/17793
